@@ -1,0 +1,419 @@
+[
+  {
+  "content": "",
+  "createDateStr": "2018/12/3",
+  "createOrg": {},
+  "id": 2402,
+  "issueTypeName": "城管->流动摊贩",
+  "occurDateStr": "2018-11-16 19:21",
+  "occurLocation": "中央商务区社区-温德邻里",
+  "receptStatus": "已分派",
+  "sourceName": "全要素网格通",
+  "title": "清理流动摊贩"
+  },
+  {
+  "content": "",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-12-02 15:59:47",
+  "createUser": "admin",
+  "departmentNo": "320685201001000",
+  "fullOrgName": "富新社区-网格1",
+  "fullPinyin": "wangge1",
+  "homePageVersion": 0,
+  "id": 61376,
+  "maxCode": 0,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320685201001000",
+  "orgInternalCode": ".1.6.9.1.1.1.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 207,
+  "internalId": 0
+  },
+  "orgName": "网格1",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 7403,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "wg1",
+  "subCount": 0,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2391,
+  "issueTypeName": "矛盾纠纷标准->物业纠纷",
+  "occurDateStr": "2018-11-16 09:24",
+  "occurLocation": "中央商务区社区-楼宇邻里",
+  "receptStatus": "办理中",
+  "sourceName": "全要素网格通",
+  "title": "电梯门框瓷砖掉落"
+  },
+  {
+  "content": "Hhj",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-12-02 15:59:47",
+  "createUser": "admin",
+  "departmentNo": "320685201001000",
+  "fullOrgName": "富新社区-网格1",
+  "fullPinyin": "wangge1",
+  "homePageVersion": 0,
+  "id": 61376,
+  "maxCode": 0,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320685201001000",
+  "orgInternalCode": ".1.6.9.1.1.1.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 207,
+  "internalId": 0
+  },
+  "orgName": "网格1",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 7403,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "wg1",
+  "subCount": 0,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2390,
+  "issueTypeName": "民生服务->物业管理",
+  "occurDateStr": "2018-11-16 09:14",
+  "occurLocation": "中央商务区社区-恭德邻里",
+  "receptStatus": "办理中",
+  "sourceName": "全要素网格通",
+  "title": "电梯困人"
+  },
+  {
+  "content": "我问问",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-12-02 15:59:47",
+  "createUser": "admin",
+  "departmentNo": "320602009001000",
+  "fullOrgName": "中桥社区-网格1",
+  "fullPinyin": "wangge1",
+  "homePageVersion": 0,
+  "id": 60628,
+  "maxCode": 0,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320602009001000",
+  "orgInternalCode": ".1.6.1.9.1.1.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 207,
+  "internalId": 0
+  },
+  "orgName": "网格1",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 4212,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "wg1",
+  "subCount": 0,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2383,
+  "issueTypeName": "民生服务->物业管理",
+  "occurDateStr": "2018-11-15 11:25",
+  "occurLocation": "中央商务区社区-俭德邻里",
+  "receptStatus": "未受理",
+  "sourceName": "全要素网格通",
+  "title": "垃圾乱堆放"
+  },
+  {
+  "content": "测试2018-11-07 14:27:15",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-09-26 13:12:42",
+  "createUser": "admin",
+  "departmentNo": "320602009",
+  "fullOrgName": "崇川区-观音山街道",
+  "fullPinyin": "guanyinshanjiedao",
+  "homePageVersion": 0,
+  "id": 4211,
+  "maxCode": 20,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320602009",
+  "orgInternalCode": ".1.6.1.9.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 209,
+  "internalId": 0
+  },
+  "orgName": "观音山街道",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 4130,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "gysjd",
+  "subCount": 20,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2307,
+  "issueTypeName": "民生服务->物业管理",
+  "occurDateStr": "2018-11-07 14:27",
+  "occurLocation": "中央商务区社区-良德邻里",
+  "receptStatus": "已反馈",
+  "sourceName": "全要素网格通",
+  "title": "不文明养狗"
+  },
+  {
+  "content": "测试2018-11-07 14:25:33",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-09-26 13:12:42",
+  "createUser": "admin",
+  "departmentNo": "320602009",
+  "fullOrgName": "崇川区-观音山街道",
+  "fullPinyin": "guanyinshanjiedao",
+  "homePageVersion": 0,
+  "id": 4211,
+  "maxCode": 20,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320602009",
+  "orgInternalCode": ".1.6.1.9.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 209,
+  "internalId": 0
+  },
+  "orgName": "观音山街道",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 4130,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "gysjd",
+  "subCount": 20,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2306,
+  "issueTypeName": "城管->建筑、装潢垃圾堆放",
+  "occurDateStr": "2018-11-07 14:25",
+  "occurLocation": "中央商务区社区-让德邻里",
+  "receptStatus": "已反馈",
+  "sourceName": "全要素网格通",
+  "title": "清理建筑垃圾"
+  },
+  {
+  "content": "测试2018-11-07 14:22:33",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-09-26 13:12:42",
+  "createUser": "admin",
+  "departmentNo": "320602009",
+  "fullOrgName": "崇川区-观音山街道",
+  "fullPinyin": "guanyinshanjiedao",
+  "homePageVersion": 0,
+  "id": 4211,
+  "maxCode": 20,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320602009",
+  "orgInternalCode": ".1.6.1.9.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 209,
+  "internalId": 0
+  },
+  "orgName": "观音山街道",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 4130,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "gysjd",
+  "subCount": 20,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2305,
+  "issueTypeName": "民生服务->物业管理",
+  "occurDateStr": "2018-11-07 14:22",
+  "occurLocation": "中央商务区社区-俭德邻里",
+  "receptStatus": "已分派",
+  "sourceName": "全要素网格通",
+  "title": "楼道灯破损"
+  },
+  {
+  "content": "测试2018-11-07 14:12:34",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-09-26 13:12:42",
+  "createUser": "admin",
+  "departmentNo": "320602009",
+  "fullOrgName": "崇川区-观音山街道",
+  "fullPinyin": "guanyinshanjiedao",
+  "homePageVersion": 0,
+  "id": 4211,
+  "maxCode": 20,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320602009",
+  "orgInternalCode": ".1.6.1.9.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 209,
+  "internalId": 0
+  },
+  "orgName": "观音山街道",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 4130,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "gysjd",
+  "subCount": 20,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2304,
+  "issueTypeName": "环境保护->餐饮油烟->油烟扰民",
+  "occurDateStr": "2018-11-07 14:12",
+  "occurLocation": "中央商务区社区-温德邻里",
+  "receptStatus": "已分派",
+  "sourceName": "全要素网格通",
+  "title": "油烟扰民"
+  },
+  {
+  "content": "测试2018-11-07 14:06:51",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-09-26 13:23:15",
+  "createUser": "admin",
+  "departmentNo": "320685201",
+  "fullOrgName": "南通经济技术开发区-中兴街道",
+  "fullPinyin": "zhongxingjiedao",
+  "homePageVersion": 0,
+  "id": 7402,
+  "maxCode": 9,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320685201",
+  "orgInternalCode": ".1.6.9.1.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 209,
+  "internalId": 0
+  },
+  "orgName": "中兴街道",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 7401,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "zxjd",
+  "subCount": 8,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2303,
+  "issueTypeName": "民生服务->物业管理",
+  "occurDateStr": "2018-11-07 14:06",
+  "occurLocation": "中央商务区社区-楼宇邻里",
+  "receptStatus": "办理中",
+  "sourceName": "全要素网格通",
+  "title": "电梯损坏"
+  },
+  {
+  "content": "测试2018-11-07 14:03:32",
+  "createDateStr": "2018/12/3",
+  "createOrg": {
+  "createDate": "2014-09-26 13:23:15",
+  "createUser": "admin",
+  "departmentNo": "320685201",
+  "fullOrgName": "南通经济技术开发区-中兴街道",
+  "fullPinyin": "zhongxingjiedao",
+  "homePageVersion": 0,
+  "id": 7402,
+  "maxCode": 9,
+  "navigationVersion": 0,
+  "newDepartmentNo": "320685201",
+  "orgInternalCode": ".1.6.9.1.",
+  "orgLevel": {
+  "displaySeq": 0,
+  "id": 209,
+  "internalId": 0
+  },
+  "orgName": "中兴街道",
+  "orgType": {
+  "displaySeq": 0,
+  "id": 214,
+  "internalId": 0
+  },
+  "parentOrg": {
+  "id": 7401,
+  "maxCode": 0
+  },
+  "seq": 1,
+  "simplePinyin": "zxjd",
+  "subCount": 8,
+  "subCountFun": 0,
+  "updateDate": "2018-05-30 10:05:35",
+  "updateUser": "admin"
+  },
+  "id": 2302,
+  "issueTypeName": "环境保护->施工管理->装修施工噪声",
+  "occurDateStr": "2018-11-07 14:03",
+  "occurLocation": "中央商务区社区-恭德邻里",
+  "receptStatus": "已分派",
+  "sourceName": "全要素网格通",
+  "title": "室内装修扰民"
+  }
+  ]
